@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm netz888</h1>
+<h1 align="center">Hi 👋, I'm Net Zhong</h1>
 
 <p align="center">
   <em>Welcome to my GitHub profile</em>
@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me
 
-Full-stack developer comfortable across both frontend and backend. On the frontend I work with the Vue ecosystem, HTML/CSS/JavaScript and Tailwind; on the backend I use Java, PHP, Python and Node.js, with MySQL and Redis for data. I also have solid DevOps skills, deploying and orchestrating services with Docker and Nginx on Linux, and I'm comfortable with C / C++ at the lower level. I love open source, enjoy building all kinds of fun projects, keep learning, and am always happy to talk tech.
+Hey there 👋 I mostly tinker with things to understand how they actually work. I'm really into security — poking at how systems break, reading writeups, playing with CTFs — and lately I've been spending a lot of time on AI and figuring out where it's genuinely useful. Along the way I've picked up a decent amount of full-stack and some Linux/ops, usually because a project needed it. Still learning a ton, always curious, and happy to chat about any of it.
 
 ### 🛠️ Skills
 
