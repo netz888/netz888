@@ -8,17 +8,40 @@
 
 ### 👨‍💻 关于我
 
-- 🔭 我目前在折腾一些有意思的项目
-- 🌱 持续学习中
-- 💬 欢迎交流技术
+全栈开发工程师，前端与后端通吃。前端熟悉 Vue 全家桶、HTML/CSS/JavaScript 与 Tailwind，后端掌握 Java、PHP、Python 与 Node.js，数据库使用 MySQL、Redis。同时具备扎实的运维能力，熟练运用 Docker、Nginx 在 Linux 环境下完成部署与服务编排，底层熟悉 C / C++。热爱开源，乐于折腾各种有意思的项目，持续学习中，欢迎交流技术。
 
 ### 🛠️ 技能
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,c,cpp,python,php,js,html,css,vue,tailwind&perline=10" alt="skills" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=nodejs,mysql,redis,nginx,docker,linux,git,github,vscode&perline=10" alt="skills" />
-</p>
+#### 编程语言
+
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+#### 前端
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+#### 后端与数据库
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+#### 运维与工具
+
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ### 📫 联系我
 
@@ -29,8 +52,8 @@
 ### 📊 GitHub 统计
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=netz888&show_icons=true&theme=transparent&hide_border=true" alt="github stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=netz888&layout=compact&theme=transparent&hide_border=true" alt="top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=netz888&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="github stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=netz888&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="top languages" />
 </p>
 
 ---
