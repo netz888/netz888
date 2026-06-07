@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm netz888</h1>
 
 <p align="center">
-  <em>欢迎来到我的 GitHub 主页</em>
+  <em>Welcome to my GitHub profile</em>
 </p>
 
 ---
 
-### 👨‍💻 关于我
+### 👨‍💻 About Me
 
-全栈开发工程师，前端与后端通吃。前端熟悉 Vue 全家桶、HTML/CSS/JavaScript 与 Tailwind，后端掌握 Java、PHP、Python 与 Node.js，数据库使用 MySQL、Redis。同时具备扎实的运维能力，熟练运用 Docker、Nginx 在 Linux 环境下完成部署与服务编排，底层熟悉 C / C++。热爱开源，乐于折腾各种有意思的项目，持续学习中，欢迎交流技术。
+Full-stack developer comfortable across both frontend and backend. On the frontend I work with the Vue ecosystem, HTML/CSS/JavaScript and Tailwind; on the backend I use Java, PHP, Python and Node.js, with MySQL and Redis for data. I also have solid DevOps skills, deploying and orchestrating services with Docker and Nginx on Linux, and I'm comfortable with C / C++ at the lower level. I love open source, enjoy building all kinds of fun projects, keep learning, and am always happy to talk tech.
 
-### 🛠️ 技能
+### 🛠️ Skills
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -32,22 +32,9 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-### 📫 联系我
-
-- GitHub: [@netz888](https://github.com/netz888)
-
 ---
 
-### 📊 GitHub 统计
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=netz888&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="github stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=netz888&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="top languages" />
-</p>
-
----
-
-### 🐍 贡献贪吃蛇
+### 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/netz888/netz888/output/snake-dark.svg" />
