@@ -1,16 +1,14 @@
-<h1 align="center">Hi 👋, I'm Net Zhong</h1>
+# Hi 👋, I'm Net Zhong
 
-<p align="center">
-  <em>Welcome to my GitHub profile</em>
-</p>
+*Welcome to my GitHub profile*
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 
 Hey there 👋 I mostly tinker with things to understand how they actually work. I'm really into security — poking at how systems break, reading writeups, playing with CTFs — and lately I've been spending a lot of time on AI and figuring out where it's genuinely useful. Along the way I've picked up a decent amount of full-stack and some Linux/ops, usually because a project needed it. Still learning a ton, always curious, and happy to chat about any of it.
 
-### 🛠️ Skills
+###  Skills
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
