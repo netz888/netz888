@@ -34,8 +34,6 @@ Full-stack developer comfortable across both frontend and backend. On the fronte
 
 ---
 
-### 🐍 Contribution Snake
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/netz888/netz888/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/netz888/netz888/output/snake-light.svg" />
