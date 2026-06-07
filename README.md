@@ -15,8 +15,9 @@
 ### 🛠️ 技能
 
 <p>
-  <!-- 在这里替换成你实际使用的技术 -->
-  <img src="https://skillicons.dev/icons?i=js,python,git,github" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,python,php,js,html,css,vue,tailwind&perline=10" alt="skills" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=nodejs,mysql,redis,nginx,docker,linux,git,github,vscode&perline=10" alt="skills" />
 </p>
 
 ### 📫 联系我
